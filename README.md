@@ -1,4 +1,4 @@
-#Proyecto Final de la materia Arquitectura de Computadoras en ITSON
+Proyecto Final de la materia Arquitectura de Computadoras en ITSON
 
 Equipo #2:<br>
 Carlos Daniel Jaramillo Valencia | 207026<br>
